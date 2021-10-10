@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "etacarinaeWeb": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "etacarinaeWeb"
+    }
+  },
+  "defaultProject": "etacarinaeWeb",
+  "cli": {
+    "analytics": "3204b627-dc21-4d41-86fc-801daa582922"
+  }
 }
